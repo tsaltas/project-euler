@@ -15,8 +15,6 @@ def build_binary_lists(n):
 
 	if set(initial_element) != set(initial_element).union(left):
 		
-
-
 build_binary_lists(5)
 
 
